@@ -25,7 +25,7 @@ setup(
     author_email='ivailo@karamanolev.com',
     maintainer='Ivailo Karamanolev',
     maintainer_email='ivailo@karamanolev.com',
-    version='3.0.0.dev0',
+    version='2.9.9.dev0',
     install_requires=['flake8>=5'],
     python_requires='>=3.8',
     url='https://github.com/karamanolev/flake8-commas/',
